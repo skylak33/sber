@@ -1878,7 +1878,7 @@
 
 "@salutejs/plasma-web@^1.246.0":
   version "1.246.0"
-  resolved "https://registry.npmjs.org/@salutejs/plasma-web/-/plasma-web-1.246.0.tgz"
+  resolved "https://registry.yarnpkg.com/@salutejs/plasma-web/-/plasma-web-1.246.0.tgz#46609d2d53137726b01383ea8ba8e714e82b66ae"
   integrity sha512-o8KJJHPLMhYchWYIuBPbCSQjrlJe7Y2cCjS+kqbIVVVYsApcI6gz1XyhWD9qA70iiIgcex6ewoYomukFdynLCg==
   dependencies:
     "@salutejs/plasma-core" "1.139.0"
